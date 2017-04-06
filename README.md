@@ -31,6 +31,7 @@ A short intranet page to define how to use the chat, group pages and wire in GCc
 <tr> <td><h5>I want to chat instantly with colleagues that are currently online.</h5></td> 
 <td><h5>There is a chat option at the bottom, right hand corner of your GCconnex screen!</h5></td> 
 <td><h5>This option allows you to chat "live" with your colleagues whom are already on GCconnex, remember if a decision is made - you may want to save the conversation by copying and pasting it into a word document.</h5></td>
+<td><h5>GCconnex does not track and save live chats.  You must save on your own accord.</h5></td>      
 </table>
 Some info for group owners:
 http://www.gcpedia.gc.ca/wiki/GCconnex_User_Help/Content_Management_and_Collaboration
