@@ -19,7 +19,7 @@ A short intranet page to define how to use the chat, group pages and wire in GCc
 <tr><td><h5>I want to collaborate with others on either a project, program or just share ideas!</a></h5></td>        
 <td><h5><a href="https://gcconnex.gc.ca/groups">Go to Groups!</a></h5></td>        
 <td><h5>You can share your ideas, documents, or projects with a very specific group of people or share with the whole GCconnex community!</h5></td>        
-<td><h5>You need your colleague to be registered with GCconnex for them to connect to your group.</h5></td>        <td><h5>Disposed</h5></td>
+<td><h5>You need your colleague to be registered with GCconnex for them to connect to your group.</h5></td>
 </table>
 Some info for group owners:
 http://www.gcpedia.gc.ca/wiki/GCconnex_User_Help/Content_Management_and_Collaboration
